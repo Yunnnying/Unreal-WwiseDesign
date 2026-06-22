@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{3C2B5476-96E2-4417-B895-67DB649A57C4}" SchemaVersion="123">
+	<Switches>
+		<WorkUnit Name="Default Work Unit" ID="{3C2B5476-96E2-4417-B895-67DB649A57C4}" PersistMode="Standalone">
+			<ChildrenList>
+				<SwitchGroup Name="shoeType" ID="{00C958AC-7BCC-4B50-832A-6CAACD8A5247}">
+					<ChildrenList>
+						<Switch Name="Highheel" ID="{0D04E781-F26B-42D8-9D84-B1EFFA9A5FAE}"/>
+						<Switch Name="sneaker" ID="{EF4C1C96-03B2-4B60-ABC8-E10E565CB821}"/>
+					</ChildrenList>
+				</SwitchGroup>
+				<SwitchGroup Name="Material" ID="{28EE5A6A-2867-4A3A-8EEF-110F1592F5BA}">
+					<ChildrenList>
+						<Switch Name="Dirt" ID="{D4D0C24A-6459-4BBB-B0D3-7A3B77598C99}"/>
+						<Switch Name="Grass" ID="{E2B26BAD-A477-4A1C-8D3D-771D8FF63FC7}"/>
+						<Switch Name="Rock" ID="{0921ACEF-73E0-4002-BC19-C47CE2B84AD2}"/>
+						<Switch Name="Wood" ID="{84823CB0-D0A6-4C3A-8B64-EBA179681224}"/>
+					</ChildrenList>
+				</SwitchGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</Switches>
+</WwiseDocument>
